@@ -1,2 +1,2 @@
-# Methods of multi-criteria decision-making
+# Методы многокритериального принятия решений
 Реализация математических методов SAW, TOPSIS и ELECTRE I
